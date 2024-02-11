@@ -17,7 +17,7 @@ const LoginPage = () => {
   
     return (
       <>
-        <div onClick={initializeSignIn}>Sign in</div>
+        <div onClick={initializeSignIn}>Sign in here</div>
       </>
     );
   };
